@@ -17,4 +17,4 @@ $ npm start
 
 # Notes
 
-1. During the development, use: $ npm run dev
+Visit `/api/php` for non Nuxt routes. Visit `/` for the Nuxt app.
